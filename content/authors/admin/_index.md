@@ -8,7 +8,7 @@ authors:
 # resume download button
 btn:
 - url : "https://www.linkedin.com/in/erin-d-93b9b45/"
-  label : "LinkedIn Resume"
+  label : "LinkedIn"
 
 # Is this the primary user of the site?
 superuser: true
