@@ -33,9 +33,9 @@ hero_media = "headshot.jpg"
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[btn]
-  url = "authors/admin/"
-  label = "Learn more"
+# [btn]
+#   url = "authors/admin/"
+#   label = "Learn more"
   
 [btn_alt]
   url = "#contact"
