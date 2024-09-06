@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Licenced Clinical Social Worker
+role: Licenced Clinical Social Worker 
 
 # Organizations/Affiliations
 organizations:
@@ -77,8 +77,7 @@ user_groups:
 - Visitors
 ---
 
-I specialize in working individually with adults (ages 25 - 64) and young adults (ages 18-24). I specialize in integrating somatic and trauma informed approaches that can help you sense and regulate your body and state of being.
-It is possible to feel relief from limiting thoughts, feelings, and beliefs. I seek to provide culturally relevant, non-judgmental, and body-oriented services with compassion and empathy. Taking the first step can take so much courage and it is an honor to work with people on their first journey with therapy and on journeys that are years long!.
+I work individually with adults (18-64), integrating somatic and trauma-informed approaches to help you sense and regulate your body and emotional state. Relief from limiting thoughts, feelings, and beliefs is possible. My approach is culturally relevant, non-judgmental, and body-oriented, grounded in compassion and empathy. I deeply honor the courage it takes to begin therapy, whether it’s your first step or a continuing journey.
 
 <!-- ![reviews](../../img/certifacates.jpg)
 
