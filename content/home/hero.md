@@ -42,6 +42,6 @@ hero_media = "user-2.jpg"
   label = "Contact me"
 
 +++
-## My name is **Michael Vahn** and I'm a **Professor** specializing in **Artificial Intelligence**
+## **Welcome** 
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC.
+I work with people who are ready to heal from the effects of trauma and anxiety. I am currently enrolled in a 3 year Somatic Experiencing training program and use somatic, trauma-informed, and mindfulness-based approaches to help people engage their inner resources to strengthen connections with self and others. I have years of experience partnering with teens, adults, and families contending with anxiety, depression, and complex trauma. I integrate attachment theory and a compassionate approach to support your healing journey and for you to feel a stronger connection with your self and body, with others, and your community.
