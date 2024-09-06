@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Academia"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "user-2.jpg"
+hero_media = "headshot.jpg"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -35,7 +35,7 @@ hero_media = "user-2.jpg"
 #   Remove a link/note by deleting a cta/note block.
 [btn]
   url = "authors/admin/"
-  label = "Know more"
+  label = "Learn more"
   
 [btn_alt]
   url = "#contact"
