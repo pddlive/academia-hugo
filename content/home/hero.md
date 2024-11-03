@@ -44,4 +44,4 @@ hero_media = "headshot.jpg"
 +++
 ## **Welcome** 
 
-I help individuals heal from trauma and anxiety through somatic, trauma-informed, and mindfulness-based approaches. Currently training in Somatic Experiencing, I work with teens, adults, and families, integrating attachment theory and compassion to foster deeper self-connection, body awareness, and community bonds.
+ What does embodied belonging and connection feel like? As a somatic-based therapist, I specialize in helping individuals navigate the complex intersections of anxiety, trauma, life transitions, and relationships, with an anti-oppressive lens. I believe embodied healing isn't about adjusting to a society that perpetuates harm, but about transforming ourselves in ways that challenge oppressive structures, which leads to deeper embodiment of belonging and connection. Whether you're journeying through non-monogamy/polyamory or seeking relief from anxiety and past trauma, I provide a supportive, non-judgmental space to heal and grow.
